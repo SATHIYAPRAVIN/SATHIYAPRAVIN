@@ -49,8 +49,8 @@
 
 <h2>🏆 GitHub Stats</h2>
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SathiyaPravin&show_icons=true" alt="SathiyaPravin">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SathiyaPravin&langs_count=8&layout=compact" alt="SathiyaPravin">
+  <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SathiyaPravin&show_icons=true&theme=radical" alt="SathiyaPravin">
+  <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SathiyaPravin&langs_count=8&layout=compact&theme=radical" alt="SathiyaPravin">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
