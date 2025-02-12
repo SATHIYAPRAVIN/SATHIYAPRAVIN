@@ -14,12 +14,10 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Currently developing an advanced **Job Portal System** using Java Full Stack.
-- 🌱 Learning **Spring Boot, React, Redux, and JWT Authentication**.
 - 📝 Check out my projects on [GitHub](https://github.com/SathiyaPravin).
 - 💬 Ask me about **Java, Spring Boot, and React**.
 - 📫 Contact me at **sathiyapravin378@gmail.com**.
-- 📄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/SathiyaPravin-P/)**.
+- 📄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sathiyapravin-p-b183b9213/)**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
