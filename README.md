@@ -50,8 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/17311761?s=200&v=4" alt="Rest Assured" width="40" height="40"/>
-  <!-- Apache POI -->
-<img src="https://poi.apache.org/resources/images/project-logo.png" alt="Apache POI" width="80" height="40"/>
+  
 
 
 </p>
