@@ -53,6 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/17311761?s=200&v=4" alt="Rest Assured" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/SoapUI_Logo.png" alt="SoapUI" width="40" height="40"/>
 </p>
 
 
