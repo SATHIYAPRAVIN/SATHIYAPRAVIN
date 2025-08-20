@@ -45,6 +45,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
+<h3>🧪 Testing:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TestNG_Logo.svg/512px-TestNG_Logo.svg.png" alt="TestNG" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cucumber/cucumber/master/images/cucumber-black-text.svg" alt="Cucumber" width="80" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2>🏆 GitHub Stats</h2>
