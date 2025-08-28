@@ -14,10 +14,15 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 📝 Check out my projects on [GitHub](https://github.com/SathiyaPravin).
-- 💬 Ask me about **Java, Spring Boot, and React**.
-- 📫 Contact me at **sathiyapravin378@gmail.com**.
-- 📄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sathiyapravin-p-b183b9213/)**.
+🧪 Explore my automation frameworks and testing tools on GitHub.
+
+💬 Ask me about Java, Selenium WebDriver, TestNG, and CI/CD pipelines.
+
+🛠️ Skilled in data-driven and keyword-driven testing, modular design, and real-time analytics.
+
+📫 Reach out at sathiyapravin378@gmail.com for collaboration or queries.
+
+📄 Connect with me professionally on LinkedIn.(https://www.linkedin.com/in/sathiyapravin-p-b183b9213/)**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
