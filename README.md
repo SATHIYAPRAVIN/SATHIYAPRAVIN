@@ -8,7 +8,8 @@
 
 <BR>
 
-<h3>An aspiring Java Full Stack Developer passionate about building robust web applications and continuously learning new technologies.</h3>
+<h3>An aspiring Automation Test Engineer passionate about building reliable test frameworks, ensuring software quality, and continuously exploring new testing tools and methodologies.</h3>
+
 
 <a target="_blank" align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
